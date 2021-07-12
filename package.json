@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/malursilva/vvs-project#readme",
   "devDependencies": {
+    "@types/jest": "^26.0.24",
     "@types/node": "^16.3.1",
     "eslint": "^7.30.0",
     "git-commit-msg-linter": "^3.2.6",
