@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/malursilva/vvs-project#readme",
   "devDependencies": {
-    "git-commit-msg-linter": "^3.2.6"
+    "@types/node": "^16.3.1",
+    "git-commit-msg-linter": "^3.2.6",
+    "typescript": "^4.3.5"
   }
 }
