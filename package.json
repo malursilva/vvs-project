@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/malursilva/vvs-project/issues"
   },
-  "homepage": "https://github.com/malursilva/vvs-project#readme"
+  "homepage": "https://github.com/malursilva/vvs-project#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.6"
+  }
 }
